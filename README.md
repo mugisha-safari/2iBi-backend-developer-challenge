@@ -8,8 +8,9 @@ Deve ser desenvolvida uma API RESTful que nos permite gerenciar as informações
 * Deve ser possível ordenar a lista dos países por qualquer uma das suas propriedades.
 
 
-# Tecnologias a utilizar
-A API deve ser desenvolvida em Java e a base de dados para guardar as informações dos países deve ser relacional a escolha do candidato.
+# Tecnologias utilizadas
+* Sprint Boot
+* Sprint Web, Rest Repositories, Data JPA, H2 Database (Dependencies)
 
 
 # Como entregar
