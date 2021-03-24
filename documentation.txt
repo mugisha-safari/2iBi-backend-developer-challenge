@@ -1,0 +1,2 @@
+RESTful API introduction video: [Learn Java REST API in 10 minutes (Web Service Coding Tutorial 2020) by Vinsloev Academy](https://youtu.be/m2aqTS3EYnE)
+Database: [Spring JPA](https://spring.io/guides/gs/accessing-data-jpa/)
